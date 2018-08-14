@@ -1,4 +1,4 @@
 csv2neo4jcsv
 ================
 
-todo :: create readme if tools need to be published to pypi
+Simple Tool used to convert a csv to a neo4j-readable csv
